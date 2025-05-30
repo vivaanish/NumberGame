@@ -30,9 +30,8 @@ It’s a simple console-based game written in **C#** where the goal is to beat t
 
 ---
 
-## 🛠️ How to Run
 
-1. **Clone the repo**:
+1. **Clone free repo**:
    ```bash
    git clone https://github.com/anishisgreat/number-game.git
    cd number-game
